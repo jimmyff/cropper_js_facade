@@ -1,0 +1,9 @@
+author: "Jimmy Forrester-Fellowes <jimmyff@jimmyff.uk>"
+description: "Dart JS wrappers for Cropper.js"
+environment:
+  sdk: ">=2.0.0"
+homepage: "https://github.com/jimmyff/stripe_js_facade.git"
+name: "cropper_js_facade"
+version: "0.9.0"
+dependencies:
+  js: "any"
